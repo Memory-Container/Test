@@ -7,3 +7,7 @@ body, html {
     font-family: monospace;
     min-height: 100vh;
 }
+
+p {
+    color: red;
+}
